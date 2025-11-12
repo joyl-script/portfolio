@@ -9,9 +9,13 @@
 
  1. Nexcent
 📂 [Код](https://github.com/joyl-script/my-first-site)  
-🌐 [Демо](http://127.0.0.1:5500/index.html)
+🌐 [Демо](https://joyl-script.github.io/my-first-site/)
 Сайт с адаптивом на планшет, телефон и т.д.
-
+---
+2. MNTN
+📂 [Код](https://github.com/joyl-script/my-second-site)  
+🌐 [Демо](https://joyl-script.github.io/my-second-site/)
+Сайт с адаптивом
 ---
  2. Сайт
 📂 [Код](https://github.com/joyl-script/my-ninth-project)  
