@@ -6,7 +6,12 @@
 
 🚀 Мои проекты
 
-1. Wedding
+1. Ink. House
+📂 [Код](https://github.com/joyl-script/my-six-site)  
+🌐 [Демо](https://joyl-script.github.io/my-six-site/)
+Сайт с функционалом js, анимированы кнопки, ссылки
+
+2. Wedding
 📂 [Код](https://github.com/joyl-script/my-fifth-site)  
 🌐 [Демо](https://joyl-script.github.io/my-fifth-site/)
 Сайт с JS, адаптивом 
@@ -21,15 +26,7 @@
 🌐 [Демо](https://joyl-script.github.io/my-third-site/)
 Сайт с Scss, адаптивом
 
-5. MNTN
-📂 [Код](https://github.com/joyl-script/my-second-site)  
-🌐 [Демо](https://joyl-script.github.io/my-second-site/)
-Второй сайт, пока что без js
 
-6. Nexcent
-📂 [Код](https://github.com/joyl-script/my-first-site)  
-🌐 [Демо](https://joyl-script.github.io/my-first-site/)
-Первый сайт, только научилась делать адаптив
 
   Навыки
 - HTML5 (семантическая верстка)  
