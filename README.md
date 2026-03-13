@@ -6,25 +6,25 @@
 
 🚀 Мои проекты
 
-1. Ink. House
+1. Shoping
+📂 [Код](https://github.com/joyl-script/my-seven-site)  
+🌐 [Демо](https://joyl-script.github.io/my-seven-site/)
+Сайт на react
+
+2. Ink. House
 📂 [Код](https://github.com/joyl-script/my-six-site)  
 🌐 [Демо](https://joyl-script.github.io/my-six-site/)
 Сайт с функционалом js, анимированы кнопки, ссылки
 
-2. Wedding
+3. Wedding
 📂 [Код](https://github.com/joyl-script/my-fifth-site)  
 🌐 [Демо](https://joyl-script.github.io/my-fifth-site/)
 Сайт с JS, адаптивом 
 
-3. Panel
+4. Panel
 📂 [Код](https://github.com/joyl-script/my-fourth-site)  
 🌐 [Демо](https://joyl-script.github.io/my-fourth-site/)
 Сайт с JS, адаптивом
-
-4. LaslesVPN 
-📂 [Код](https://github.com/joyl-script/my-third-site)  
-🌐 [Демо](https://joyl-script.github.io/my-third-site/)
-Сайт с Scss, адаптивом
 
 
 
@@ -33,6 +33,7 @@
 - CSS3 (стилизация, Flexbox, Grid, анимации, псевдоклассы, псевдоэлементы, адаптив под планшет, телефон)
 - Предпроцессор  Sass/Scss
 - Базовый JS
+- Базоый React
 - Git & GitHub (работа с репозиториями, GitHub Pages)  
 
 
