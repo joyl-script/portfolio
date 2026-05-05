@@ -6,22 +6,27 @@
 
 🚀 Мои проекты
 
-1. Shoping
+1. Movie
+📂 [Код](https://github.com/joyl-script/my-eight-syte)  
+🌐 [Демо](https://joyl-script.github.io/my-eight-syte/)
+Сайт с js к нему приложено описание
+
+2. Shoping
 📂 [Код](https://github.com/joyl-script/my-seven-site)  
 🌐 [Демо](https://joyl-script.github.io/my-seven-site/)
 Сайт на react
 
-2. Ink. House
+3. Ink. House
 📂 [Код](https://github.com/joyl-script/my-six-site)  
 🌐 [Демо](https://joyl-script.github.io/my-six-site/)
 Сайт с функционалом js, анимированы кнопки, ссылки
 
-3. Wedding
+4. Wedding
 📂 [Код](https://github.com/joyl-script/my-fifth-site)  
 🌐 [Демо](https://joyl-script.github.io/my-fifth-site/)
 Сайт с JS, адаптивом 
 
-4. Panel
+5. Panel
 📂 [Код](https://github.com/joyl-script/my-fourth-site)  
 🌐 [Демо](https://joyl-script.github.io/my-fourth-site/)
 Сайт с JS, адаптивом
