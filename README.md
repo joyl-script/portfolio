@@ -11,25 +11,20 @@
 🌐 [Демо](https://joyl-script.github.io/my-nine-syte/)
 Сайт react, без адаптива
 
-1. Movie
+2. Movie
 📂 [Код](https://github.com/joyl-script/my-eight-syte)  
 🌐 [Демо](https://joyl-script.github.io/my-eight-syte/)
 Сайт с js к нему приложено описание
 
-2. Shoping
+3. Shoping
 📂 [Код](https://github.com/joyl-script/my-seven-site)  
 🌐 [Демо](https://joyl-script.github.io/my-seven-site/)
 Сайт на react
 
-3. Ink. House
+4. Ink. House
 📂 [Код](https://github.com/joyl-script/my-six-site)  
 🌐 [Демо](https://joyl-script.github.io/my-six-site/)
 Сайт с функционалом js, анимированы кнопки, ссылки
-
-4. Wedding
-📂 [Код](https://github.com/joyl-script/my-fifth-site)  
-🌐 [Демо](https://joyl-script.github.io/my-fifth-site/)
-Сайт с JS, адаптивом 
 
 
 
