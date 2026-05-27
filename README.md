@@ -7,7 +7,7 @@
 🚀 Мои проекты
 
 1.Game
-📂 [Код] (https://joyl-script.github.io/my-nine-syte/)  
+📂 [Код](https://joyl-script.github.io/my-nine-syte/)  
 🌐 [Демо](https://joyl-script.github.io/my-nine-syte/)
 Сайт react, без адаптива
 
