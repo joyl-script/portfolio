@@ -32,8 +32,11 @@
 - HTML5 (семантическая верстка)  
 - CSS3 (стилизация, Flexbox, Grid, анимации, псевдоклассы, псевдоэлементы, адаптив под планшет, телефон)
 - Предпроцессор  Sass/Scss
-- Базовый JS
-- Базоый React
+- Tailwind
+- Redux Toolkit
+- TanStackQuery
+- JS
+- React
 - Git & GitHub (работа с репозиториями, GitHub Pages)  
 
 
