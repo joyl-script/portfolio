@@ -7,21 +7,21 @@
 ## 🚀 Мои проекты
 
 **1.Ecobazar**
-📂 [Код](https://joyl-script.github.io/my-nine-syte/)  
-🌐 [Демо](https://joyl-script.github.io/my-nine-syte/)
+📂 [Код](https://github.com/joyl-script/next-syte)  
+🌐 [Демо](https://next-syte-z2q2-crffhct48-joyl-scripts-projects.vercel.app/)
 
 **2.Kinopoisk**
 📂 [Код](https://github.com/joyl-script/my-eight-syte)  
 🌐 [Демо](https://joyl-script.github.io/my-eight-syte/)
 
-**3.Gamw Website**
-📂 [Код](https://github.com/joyl-script/my-seven-site)  
-🌐 [Демо](https://joyl-script.github.io/my-seven-site/)
+**3.Game Website**
+📂 [Код](https://github.com/joyl-script/my-nine-syte)  
+🌐 [Демо](https://joyl-script.github.io/my-nine-syte/)
 
 
 ### Навыки
-**- HTML5 (семантическая верстка)**
-**- CSS3 (стилизация, Flexbox, Grid, анимации, псевдоклассы, псевдоэлементы, адаптив под планшет, телефон)**
+**- HTML5**
+**- CSS3**
 **- Предпроцессор  Sass/Scss**
 **- Tailwind**
 **- Redux Toolkit**
