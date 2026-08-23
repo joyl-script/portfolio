@@ -14,7 +14,7 @@ Next.js + Tailwind: хиро-секция, бегущая строка с лог
 
 📂 [Код](https://github.com/joyl-script/test-company) · 🌐 [Демо](https://test-company-umber.vercel.app)
 
-![Test Company preview](./screenshots/test-company.png)
+![Test Company preview](./screenshots/textCompany.png)
 
 ---
 
