@@ -1,36 +1,47 @@
-# Портфолио Frontend-Разработчика
+# Привет, я Анастасия 👋
 
-**Привет! Меня зовут Анастасия, я начинающий фронтенд-разработчик.  
-Здесь собраны мои проекты**
+Начинающий frontend-разработчик. Учусь верстать быстро, аккуратно и по BEM/адаптивно, постепенно перехожу на React-стек.
 
+📧 Email: majpotejto@gmail.com
+🐙 GitHub: [@joyl-script](https://github.com/joyl-script)
 
-## 🚀 Мои проекты
+---
 
-**1.Ecobazar**
-📂 [Код](https://github.com/joyl-script/next-syte)  
-🌐 [Демо](https://next-syte-z2q2-crffhct48-joyl-scripts-projects.vercel.app/)
+## 🚀 Проекты
 
-**2.Kinopoisk**
-📂 [Код](https://github.com/joyl-script/my-eight-syte)  
-🌐 [Демо](https://joyl-script.github.io/my-eight-syte/)
+### 1. Test Company — лендинг дизайн-агентства
+Next.js + Tailwind: хиро-секция, бегущая строка с логотипами клиентов, карточки кейсов, блок услуг, футер с контактами.
 
-**3.Game Website**
-📂 [Код](https://github.com/joyl-script/my-nine-syte)  
-🌐 [Демо](https://joyl-script.github.io/my-nine-syte/)
+📂 [Код](https://github.com/joyl-script/test-company) · 🌐 [Демо](https://test-company-umber.vercel.app)
 
+![Test Company preview](./screenshots/test-company.png)
 
-### Навыки
-**- HTML5**
-**- CSS3**
-**- Предпроцессор  Sass/Scss**
-**- Tailwind**
-**- Redux Toolkit**
-**- TanStackQuery**
-**- JS**
-**- React**
-**- Git & GitHub (работа с репозиториями, GitHub Pages)**  
+---
 
+### 2. Ecobazar — интернет-магазин эко-товаров
+Next.js-приложение: каталог, карточки товаров, корзина.
 
-### Контакты
-**- 📧 Email: majpotejto@gmail.com**   
-**- 🐙 GitHub: https://github.com/joyl-script**
+📂 [Код](https://github.com/joyl-script/next-syte) · 🌐 [Демо](ссылку нужно заменить на production-деплой)
+
+![Ecobazar preview](./screenshots/ecobazar.png)
+
+---
+
+### 3. Kinopoisk clone — стриминг-платформа (лендинг)
+hero-секция, модалки логина/регистрации, футер с соцсетями, переход через модалки на главную страницу с фильмами
+
+📂 [Код](https://github.com/joyl-script/my-eight-syte) · 🌐 [Демо](https://joyl-script.github.io/my-eight-syte/)
+
+![Kinopoisk preview](./screenshots/kinopoisk.png)
+
+---
+
+## 🛠 Стек
+
+`HTML5` `CSS3` `Sass/SCSS` `Tailwind` `JavaScript` `React` `Redux Toolkit` `TanStack Query` `Next.js` `Git & GitHub`
+
+## 📫 Связаться со мной
+
+- Email: majpotejto@gmail.com
+- Telegram: [@Pqakwsij]
+
