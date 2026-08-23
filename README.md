@@ -21,7 +21,7 @@ Next.js + Tailwind: хиро-секция, бегущая строка с лог
 ### 2. Ecobazar — интернет-магазин эко-товаров
 Next.js-приложение: каталог, карточки товаров, корзина.
 
-📂 [Код](https://github.com/joyl-script/next-syte) · 🌐 [Демо](ссылку нужно заменить на production-деплой)
+📂 [Код](https://github.com/joyl-script/next-syte) · 🌐 [Демо](https://next-syte-z2q2-six.vercel.app/)
 
 ![Ecobazar preview](./screenshots/ecobazar.png)
 
